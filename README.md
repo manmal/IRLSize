@@ -1,5 +1,7 @@
 # IRLSize
 
+This is a fork of the original library. What I did here was migrate the code to SPM (Swift Package Manager) by adding `Package.swift`, moving files around (and deleting obsolete ones), and copying in files from https://github.com/detroit-labs/Orchard.
+
 [![Version](https://img.shields.io/cocoapods/v/IRLSize.svg?style=flat)](https://cocoapods.org/pods/IRLSize)
 [![License](https://img.shields.io/cocoapods/l/IRLSize.svg?style=flat)](https://github.com/detroit-labs/IRLSize/blob/master/LICENSE)
 [![Platform](https://img.shields.io/cocoapods/p/IRLSize.svg?style=flat)](https://github.com/detroit-labs/IRLSize)
